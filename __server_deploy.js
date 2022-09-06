@@ -15,4 +15,14 @@
  * 3. git push heroku main
  * 4. go to Heroki Dashbord > current project > setting > Reveal config
  * 5. copy past config vars from your .env file
+ * 6. Make sure you have whiteListed all ip address to access mongodb
+ * --------------------------------
+ * Update Server with new changes
+ * --------------------------------
+ * 1. Make changes
+ * 2. main sure you : git add . git commit. git push
+ * 3. git push heroku main
+ * --------------------------------
+ * conncetServer whit clint
+ * --------------------------------
 */
